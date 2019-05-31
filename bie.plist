@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.hkhxjys.com/upload/files/bie/icon.png</string>
+					<string>http://www.hkhxjys.com/upload/files/bie/images/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.hkhxjys.com/upload/files/bie/.png</string>
+					<string>http://www.hkhxjys.com/upload/files/bie/images/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
