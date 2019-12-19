@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download.bies.cc/bie/images/icon.png</string>
+					<string>http://47.52.53.130/bie/images/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download.bies.cc/bie/images/icon.png</string>
+					<string>http://47.52.53.130/bie/images/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BIE</string>
+				<string>app</string>
 			</dict>
 		</dict>
 	</array>
