@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>https://github.com/onegf/test/blob/master/temp.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/onegf/test/master/icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/onegf/test/master/icon.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
